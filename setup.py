@@ -35,6 +35,7 @@ setup(
     install_requires=requirements,
     license="GNU General Public License v3",
     long_description=readme,
+    long_description_content_type="text/markdown",
     include_package_data=True,
     keywords='crowdai_api crowdai',
     name='crowdai_api',
